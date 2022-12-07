@@ -7,4 +7,4 @@ It is free from any danger, tracking and advertisements unlike others.
 You may access this QR Code Scanner here: https://thedoggybrad.github.io/qrscanner/
 <br>
 <br>
-Resource used to built this: https://github.com/gokulkrishh/qrcodescan.in
+The resource I use to built this: https://github.com/gokulkrishh/qrcodescan.in
