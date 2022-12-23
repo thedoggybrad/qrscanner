@@ -1,7 +1,7 @@
 {
-  "name": "2048",
-  "short_name": "2048",
-  "description": "The Classic 2048 is now on the web but with a few improvements.",
+  "name": "QRScanner",
+  "short_name": "QRScanner",
+  "description": "A simple QR Code Scanner.",
   "icons": [
     {
       "src": "https://thedoggybrad.github.io/2048ontheweb/meta/2048-rounded-96.png",
