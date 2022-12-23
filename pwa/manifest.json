@@ -1,0 +1,37 @@
+{
+  "name": "2048",
+  "short_name": "2048",
+  "description": "The Classic 2048 is now on the web but with a few improvements.",
+  "icons": [
+    {
+      "src": "https://thedoggybrad.github.io/2048ontheweb/meta/2048-rounded-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://thedoggybrad.github.io/2048ontheweb/meta/2048-rounded-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://thedoggybrad.github.io/2048ontheweb/meta/2048-rounded-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://thedoggybrad.github.io/2048ontheweb/meta/2048-rounded-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "https://thedoggybrad.github.io/2048ontheweb/meta/2048-rounded-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://thedoggybrad.github.io/qrscanner",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "background_color": "##FFFFFF",
+  "orientation": "portrait"
+}
