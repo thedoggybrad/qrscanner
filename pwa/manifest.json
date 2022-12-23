@@ -4,12 +4,12 @@
   "description": "A simple QR Code Scanner.",
   "icons": [
     {
-      "src": "https://thedoggybrad.github.io/2048ontheweb/meta/2048-rounded-96.png",
-      "sizes": "96x96",
+      "src": "https://thedoggybrad.github.io/qrscanner/touch/favicon-16x16.png",
+      "sizes": "32x32",
       "type": "image/png"
     },
     {
-      "src": "https://thedoggybrad.github.io/2048ontheweb/meta/2048-rounded-144.png",
+      "src": "https://thedoggybrad.github.io/qrscanner/touch/favicon-32x32.png",
       "sizes": "144x144",
       "type": "image/png"
     },
