@@ -23,6 +23,8 @@ const resourceList = [
   'https://thedoggybrad.github.io/qrscanner/images/screenshots/screenshot1.png',
   'https://thedoggybrad.github.io/qrscanner/images/screenshots/screenshot2.png',
   'https://thedoggybrad.github.io/qrscanner/images/screenshots/screenshot3.png',
+  'https://www.w3.org/2000/svg',
+  'http://www.w3.org/1999/xlink',
 ];
 
 self.addEventListener('install', event => {
