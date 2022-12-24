@@ -12,6 +12,7 @@ const resourceList = [
   'https://thedoggybrad.github.io/qrscanner/manifest.json',
   'https://thedoggybrad.github.io/qrscanner/pwa/service_worker_main.js',
   'https://thedoggybrad.github.io/qrscanner/pwa/service_worker_check.js',
+  'https://thedoggybrad.github.io/qrscanner/images/',
   
 ];
 
