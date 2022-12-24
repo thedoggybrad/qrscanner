@@ -13,10 +13,6 @@ Using the official shortened link you may visit this at: https://cutt.ly/qr-scan
 The resource I use to built this: https://github.com/gokulkrishh/qrcodescan.in
 <br>
 <br>
-## Progressive Web App
-Status: Experimental 
-<br>
-<br>
 ## Instructions for the PWA app installation (Works even you are offline)
 1.) Mobile Browsers
 <br>
