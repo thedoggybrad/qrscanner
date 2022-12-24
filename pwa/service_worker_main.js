@@ -14,7 +14,12 @@ const resourceList = [
   'https://thedoggybrad.github.io/qrscanner/pwa/service_worker_check.js',
   'https://thedoggybrad.github.io/qrscanner/images/qrcode-scanner.svg',
   'https://thedoggybrad.github.io/qrscanner/images/touch/favicon.ico',
-  
+  'https://thedoggybrad.github.io/qrscanner/images/touch/android-chrome-192x192.png',
+  'https://thedoggybrad.github.io/qrscanner/images/touch/android-chrome-512x512.png',
+  'https://thedoggybrad.github.io/qrscanner/images/touch/apple-touch-icon.jpg',
+  'https://thedoggybrad.github.io/qrscanner/images/touch/favicon-16x16.png',
+  'https://thedoggybrad.github.io/qrscanner/images/touch/favicon-32x32.png',
+  'https://thedoggybrad.github.io/qrscanner/images/touch/mstile-150x150.png',
 ];
 
 self.addEventListener('install', event => {
