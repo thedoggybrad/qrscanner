@@ -5,9 +5,9 @@ const CACHE_NAME = 'qrscanner';
 const resourceList = [
   '/',
   'https://thedoggybrad.github.io/qrscanner/index.html',
-  'https://thedoggybrad.github.io/qrscanner.bundle.js',
-  'https://thedoggybrad.github.io/qrscanner.bundle.css',
-  'https://thedoggybrad.github.io/qrscanner.decoder.js',
+  'https://thedoggybrad.github.io/qrscanner/bundle.js',
+  'https://thedoggybrad.github.io/qrscanner/bundle.css',
+  'https://thedoggybrad.github.io/qrscanner/decoder.js',
   'https://thedoggybrad.github.io/qrscanner/pwacompat.min.js',
   'https://thedoggybrad.github.io/qrscanner/manifest.json',
   'https://thedoggybrad.github.io/qrscanner/pwa/service_worker_main.js',
