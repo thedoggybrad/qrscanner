@@ -335,7 +335,7 @@ video {
   z-index: 12;
   background-color: #fff;
   width: 290px;
-  height: 180px;
+  height: 210px;
   border-radius: 8px;
   display: flex;
   position: absolute;
@@ -350,13 +350,13 @@ video {
 .app__infodialog {
   max-width: 480px;
   width: 95%;
-  height: 240px;
+  height: 250px;
 }
 
 .app__dialog-content,
 .app__infodialog-content {
   width: 100%;
-  padding: 15px;
+  padding: 10px;
 }
 
 .app__infodialog-subcontent {
@@ -376,7 +376,7 @@ video {
   margin-top: 5px;
   margin-bottom: 15px;
   font-weight: 600;
-  font-size: 19px;
+  font-size: 17px;
 }
 
 .app__dialog input {
