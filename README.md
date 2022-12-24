@@ -14,4 +14,7 @@ The resource I use to built this: https://github.com/gokulkrishh/qrcodescan.in
 <br>
 <br>
 ## Progressive Web App
-Status: Experimental (Under Testing)
+Status: Experimental 
+<br>
+<br>
+There is no guarantee that the PWA (Progressive Web App) will work or behave properly like the web version.
