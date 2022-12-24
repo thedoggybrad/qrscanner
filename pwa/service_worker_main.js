@@ -20,6 +20,9 @@ const resourceList = [
   'https://thedoggybrad.github.io/qrscanner/images/touch/favicon-16x16.png',
   'https://thedoggybrad.github.io/qrscanner/images/touch/favicon-32x32.png',
   'https://thedoggybrad.github.io/qrscanner/images/touch/mstile-150x150.png',
+  'https://thedoggybrad.github.io/qrscanner/images/screenshots/screenshot1.png',
+  'https://thedoggybrad.github.io/qrscanner/images/screenshots/screenshot2.png',
+  'https://thedoggybrad.github.io/qrscanner/images/screenshots/screenshot3.png',
 ];
 
 self.addEventListener('install', event => {
