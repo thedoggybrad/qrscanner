@@ -1,3 +1,5 @@
+<img src="https://thedoggybrad.github.io/qrscanner/images/touch/android-chrome-192x192.png" width="64" height="64">
+
 # qrscanner
 It is an Online QR Code Scanner from TheDoggyBrad that is easy to use.
 <br>
